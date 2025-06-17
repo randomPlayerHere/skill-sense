@@ -1,0 +1,11 @@
+prefix=/home/chimpanzee/coding/portfolio/SkillSense/venv
+exec_prefix=/home/chimpanzee/coding/portfolio/SkillSense/venv
+libdir=/home/chimpanzee/coding/portfolio/SkillSense/venv/lib
+includedir=/home/chimpanzee/coding/portfolio/SkillSense/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.38.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

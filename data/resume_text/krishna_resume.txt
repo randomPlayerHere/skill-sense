@@ -1,0 +1,62 @@
+Krishna Verma
+/envel⌢pekrishnaverma2004.kv@gmail.com ♂phone8936807111 /linkedinlinkedin.com/in/krishnaverma01
+/githubgithub.com/krishnaverma001 /codeleetcode.com/u/krishnaverma01 ♂¶ap-¶arkerBhubaneshwar, Odisha
+Introduction
+A Computer Science undergraduate passionate about AI research, algorithmic efficiency , and scalable web
+solutions. Actively seeking a research-oriented internship to contribute my skills in machine learning, computer
+vision, and deep learning while working on real-world projects.
+Relevant Coursework
+Statistics, Data Structures and Algorithms, Machine Learning, Operating Systems, Database Management Systems,
+Object-Oriented Programming
+Research Interests
+• Deep Learning and Neural Networks
+• Natural Language Processing (NLP)
+• Computer Vision
+• Reinforcement Learning
+Technologies
+Languages: Python, Java, C++, C, SQL, JavaScript, Pytorch, Pandas
+Coursework: Operating System, Object-Oriented Programming, Database Management System, Multi-
+threading
+Web Development: HTML, CSS, Tailwind CSS, JavaScript, React
+Technologies: MySQL, Azure
+Soft Skills: Leadership, Task Ownership, Public Speaking, Management, Time Optimization, Googling
+Projects
+Weather Forecasting API using Flask and ML | Python, Flask, Pandas Link
+• Built a flask-based web API using a random forest regression model, achieving 95.1% accuracy in predicting
+temperature variations.
+• Processed historical weather data, engineered time-based features, and implemented a RESTful endpoint for
+easy querying.
+To-Do Web Application| HTML, CSS, JavaScript Link
+• Developed a responsive To-Do web app for task management, featuring task addition, deletion, and local storage
+integration.
+Weather App | HTML, CSS, JavaScript, API Link
+• Created a weather app using the Open Weather Map API to display real-time weather data with dynamic UI
+changes.
+Portfolio Website | HTML, CSS, JS Link
+• Designed and developed a responsive and interactive Portfolio website to showcase projects, skills, and
+achievements.Experience
+Web Developer, Aadi Foundation – Remote Jan 2025 – Feb 2025
+• Gained hands-on experience in full-stack web development, backend engineering, and AI integration through an
+intensive workshop. Built and optimized scalable applications while solving real-world challenges.
+• Demonstrated problem-solving skills and technical expertise through assignments, leading to qualification for
+the final round.
+Volunteer, E-LABS Society (AI/ML) – KIIT University Jan 2025 – Present
+• Contributed to research discussions and hands-on projects in machine learning.
+• Collaborated with peers to promote AI/ML awareness within the university .
+Education
+Degree Institution Year
+B.Tech in CSE (CGPA: 8.95) Kalinga Institute of Industrial Technology (KIIT),
+Bhubaneshwar, India
+2023 - Present
+Senior Secondary (12th, 70%) SKP Vidya Vihar, Bhagalpur, India 2021 - 2023
+High School (10th, 90%) Mount Assisi School (ICSE), Bhagalpur, India 2011 - 2021
+Achievements
+• Solved 1000+ DSA problems across LeetCode and Codeforces.
+• Achieved 1600+ LeetCode rating (Top 20% globally), with consistent top finishes in contests
+• Achieved a top 5% rank out of 600 participants in Encode, an on campus competitive coding event.
+• Participated in Several on and off-campus hackathons.
+Certifications
+• Python Skill Assessment Certification
+• Encode 4.0 Event
+• Volkswagen Group Hackathon
+• Google AI-ML Virtual Internship
